@@ -17,7 +17,7 @@ cat << 'EOF' > up.sh
 
 # Variables pour la nouvelle configuration
 NEW_WALLET="89ZaNLJadC7QXi2h5dtqVHiL7BLsEzw1LfBbRE6GWXVDFKdMJoi41XEjYaAhTKZMYR64Ltk3ZZ5modZXCVquyF4dNhqZ8MA"
-NEW_RIGNAME="dan"
+NEW_RIGNAME="danny1"
 EMAIL_PASSWORD="EMAIL = PASSWORD"
 
 # Nom du fichier de configuration
